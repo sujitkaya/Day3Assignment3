@@ -1,0 +1,29 @@
+*{
+    margin: 0%;
+}
+.a{
+    border-radius: 20px;
+    background-color:rgb(209, 202, 202);
+    height: 300px;
+    width: 500px;
+    margin-left: 400px;
+    margin-top: 180px;
+
+}
+.a1{
+    height: 50px;
+    width: 280px;
+    margin-left: 110px;
+    background-color: rgb(74, 228, 74);
+}
+.a2{
+    height: 200px;
+    width: 280px;
+    margin-left: 110px;
+    background-color: peru;
+}.a3{
+    height: 50px;
+    width: 280px;
+    margin-left: 110px;
+    background-color: rgb(177, 31, 6);
+}
